@@ -3,7 +3,6 @@
 🌱 I’m currently learning about generative AI and its applications in creative writing and blog content.  
 💞️ I’m looking to collaborate on open-source AI projects, especially those involving natural language processing and generative models.  
 📫 How to reach me: aaryankansari_7@icloud.com  
-😊 Pronouns: He/Him  
 ⚡ Fun fact: I’m a Mechanical Engineering student with a passion for technology, writing, and digital art.  
 
 <!---
